@@ -1,2 +1,3 @@
-Hello Git tutorial!
-GIT MARGE 
+<?php
+echo "Hello World"
+>
